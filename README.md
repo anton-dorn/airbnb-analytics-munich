@@ -9,13 +9,13 @@ Developed at Seoul National University (SNU) Business School.
 
 Course: "Introduction to Business Analytics".
 
-Collaboration & Tools
+**Collaboration & Tools**
 
 Group Project: Collaborative effort at SNU.
 
 LLM Usage: Use of Large Language Models was allowed and encouraged for code and documentation.
 
-Methodology & Focus
+**Methodology & Focus**
 
 Objective: Focused on identifying correlations, not causal relationships.
 
@@ -23,7 +23,7 @@ Model Note: Multicollinearity was intentionally not addressed as the priority wa
 
 Tech Stack: Python (Pandas, Scikit-Learn, Statsmodels, Seaborn).
 
-Analytical Steps
+**Analytical Steps**
 
 EDA: Data cleaning and creation of a "Potential" metric (Predicted vs. Actual Revenue).
 
