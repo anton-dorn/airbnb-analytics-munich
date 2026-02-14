@@ -9,6 +9,8 @@ Developed at Seoul National University (SNU) Business School.
 
 Course: "Introduction to Business Analytics".
 
+This project was given 23.7 out of 25 points.
+
 **Collaboration & Tools**
 
 Group Project: Collaborative effort at SNU.
